@@ -1,4 +1,3 @@
-from tkinter import Menu
 from ssg import hooks, parsers
 
 files = []
